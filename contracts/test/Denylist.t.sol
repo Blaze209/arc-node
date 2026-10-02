@@ -272,3 +272,5 @@ contract DenylistTest is Test {
         assertFalse(denylist.isDenylister(denylister1));
     }
 }
+
+// audit-trigger: rerun codeql solidity workflow
