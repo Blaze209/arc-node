@@ -233,7 +233,7 @@ revm-interpreter = { version = "35.0.1", default-features = false }
 revm-primitives = { version = "23.0.0", default-features = false }
 revm-statetest-types = { version = "17.0.1", default-features = false }
 
-rmcp = { version = "1.4", features = ["server", "macros", "transport-io"] }
+rmcp = { version = "2.1", features = ["server", "macros", "transport-io"] }
 rstest = "0.24.0"
 schemars = "1.0"
 schnellru = "0.2"
